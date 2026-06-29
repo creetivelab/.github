@@ -1,2 +1,0 @@
-# .github
-Dream and Create!
